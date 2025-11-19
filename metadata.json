@@ -1,0 +1,5 @@
+{
+  "name": "My Link in Bio",
+  "description": "A clean, elegant Link-in-Bio application powered by Google Sheets via Apps Script.",
+  "requestFramePermissions": []
+}
